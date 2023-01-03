@@ -1,5 +1,4 @@
-# About Me
-## Kongphop Kingpeth
+# Kongphop Kingpeth
 
 I'm studying Financial Engineering but prefer in Computer Science and interested Blockchain and FullStack development. 
 
