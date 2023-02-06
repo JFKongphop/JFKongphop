@@ -25,5 +25,4 @@ I'm studying Financial Engineering but prefer in Computer Science and interested
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](kongphopleo@gmail.com)
-![Instagram](https://img.shields.io/badge/kongphop_king-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](kongphopleo@gmail.com) kongphopleo@gmail.com
