@@ -2,6 +2,8 @@
 
 I'm studying Financial Engineering but prefer in Computer Science and interested Blockchain and FullStack development. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFKongphop&layout=compact)
+
 ### Programming Language
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
