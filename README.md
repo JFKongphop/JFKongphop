@@ -1,7 +1,6 @@
 # Kongphop Kingpeth
 
-I'm studying Financial Engineering but prefer in Computer Science and interested Blockchain and FullStack development. 
-
+I’m pursuing studies in Financial Engineering but have a strong interest in Computer Science, particularly in Blockchain technology and Full-Stack development.
 
 ### Programming Language
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
